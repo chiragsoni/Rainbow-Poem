@@ -5,6 +5,7 @@ Rainbow made of different colors.
 pink 
 orange
 green
+yellow
 blue
 purple
 red

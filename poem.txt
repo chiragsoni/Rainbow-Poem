@@ -8,3 +8,5 @@ green
 blue
 purple
 red
+
+No rainbow without rain.
